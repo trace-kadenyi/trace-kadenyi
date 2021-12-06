@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TracK92
 - 👀 I’m interested in web development...
-- 🌱 I’m currently learning how to build projects that are helpful to me...
-
+- 🌱 Programming to me feels like Magic. I love the ability it gives me to create anything that I can imagine. 
 
