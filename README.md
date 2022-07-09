@@ -1,4 +1,4 @@
-### 👋 I’m Tracey Kadenyi  <img src="https://i.pinimg.com/originals/06/51/b1/0651b10d3d6347539efcd2c9ea866640.gif" width="70">
+### 👋 Hi, I’m Tracey Kadenyi 
 <img align='right' src="https://i.pinimg.com/564x/af/f1/28/aff128795f3de001b4cef283e555eed4.jpg" width="230">
 
 ***
