@@ -4,11 +4,11 @@
 ***
 
 - :woman: Full-Stack Developer
-- :purple_heart:I love the ability that programming gives me to create anything that I can imagine, just like Magic :sparkles:. 
 - :woman_technologist: My primary skills are React and Redux. 
+- :purple_heart:I love the ability that programming gives me to create anything that I can imagine, just like Magic :sparkles:. 
 - :nerd_face: I embrace challenges because solving them is so much fun.
 - 🌱 I am also a lifelong learner with a passion for technology, books, food and people.
-- 👀 Reach me at: treykadenyi@gmail.com.
+- 👀 Reach me at: treykadenyi@gmail.com. Let's chat and code together :wink:...
 
 
 
