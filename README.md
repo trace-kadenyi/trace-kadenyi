@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Tracey Kadenyi 
-<img align='right' src="https://i.pinimg.com/564x/af/f1/28/aff128795f3de001b4cef283e555eed4.jpg" width="230">
+<img align='right' src="https://i.pinimg.com/564x/af/f1/28/aff128795f3de001b4cef283e555eed4.jpg" width="140">
 
 ***
 
