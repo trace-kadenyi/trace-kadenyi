@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Tracey Kadenyi 
-<img align='right' src="https://user-images.githubusercontent.com/40690789/193546878-d56faf91-83c5-48c9-92b7-9d41f8519283.png" width="160">
+<img align='right' src="https://user-images.githubusercontent.com/40690789/193546878-d56faf91-83c5-48c9-92b7-9d41f8519283.png" width="100">
 
 ***
 
