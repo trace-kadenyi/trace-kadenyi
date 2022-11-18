@@ -4,7 +4,7 @@
 ***
 
 - :woman: Full-Stack Developer
-- :woman_technologist: My primary skills are React and Redux. 
+- :woman_technologist: My primary skills are React/Redux and Ruby on Rails. 
 - :purple_heart:I love the ability that programming gives me to create anything that I can imagine, just like Magic :sparkles:. 
 - :nerd_face: I embrace challenges because solving them is so much fun.
 - 🌱 I am also a lifelong learner with a passion for technology, books, food, dogs and people.
