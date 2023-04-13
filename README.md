@@ -18,10 +18,10 @@
 
 <h2 align="center">Github Stats</h2>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TracK92&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TracK92&layout=compact&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=trace-kadenyi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trace-kadenyi&layout=compact&theme=radical&hide_border=true" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TracK92&theme=cobalt" alt="TracK92" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trace-kadenyi&theme=cobalt" alt="trace-kadenyi" /></p>
 
   
 <h3 align="center">Let's Connect 🤝</h3>
