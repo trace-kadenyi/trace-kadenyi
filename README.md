@@ -27,7 +27,7 @@
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
 <a target="_blank"
-href="https://www.linkedin.com/in/tracy-kadenyi-9bb90287"><img
+href="https://www.linkedin.com/in/tracey-kadenyi/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
 href="https://lizdev.hashnode.dev/"></a> <a target="_blank"
 href="https://twitter.com/traci_K7"><img
