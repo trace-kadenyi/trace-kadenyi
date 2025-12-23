@@ -21,7 +21,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=trace-kadenyi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trace-kadenyi&layout=compact&theme=radical&hide_border=true" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trace-kadenyi&theme=cobalt" alt="trace-kadenyi" /></p>
+<p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=trace-kadenyi&theme=cobalt" alt="trace-kadenyi" /></p>
 
   
 <h3 align="center">Let's Connect 🤝</h3>
