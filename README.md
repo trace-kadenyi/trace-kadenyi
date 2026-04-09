@@ -7,7 +7,7 @@
 - :woman_technologist: My primary language is JavaScript (MERN Stack). 
 - :purple_heart:I love the ability that programming gives me to create anything that I can imagine, just like MAGIC :sparkles:. 
 - :nerd_face: I embrace challenges because solving them is so much fun.
-- 🌱 I am also a lifelong learner with a passion for technology, books, food, dogs and people.
+- 🌱 I am also a lifelong learner who enjoys technology and books.
 - 👀 Reach me at: treykadenyi@gmail.com. Let's chat and code together :wink:...
 
 
