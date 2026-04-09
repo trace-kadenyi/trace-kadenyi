@@ -3,12 +3,11 @@
 
 ***
 
-- :woman: Full-Stack Web Developer
-- :woman_technologist: My primary language is JavaScript (MERN Stack). 
-- :purple_heart:I love the ability that programming gives me to create anything that I can imagine, just like MAGIC :sparkles:. 
-- :nerd_face: I embrace challenges because solving them is so much fun.
-- 🌱 I am also a lifelong learner who enjoys technology and books.
-- 👀 Reach me at: treykadenyi@gmail.com. Let's chat and code together :wink:...
+- I'm a full-stack JavaScript/TypeScript engineer with 4+ years of experience building SaaS platforms and scalable web applications in remote and cross-functional environments.
+- I specialize in the MERN stack with strong expertise in multi-tenant architecture, RBAC, and RESTful API design.
+- Most recently, I built PlaniT—a B2B SaaS platform that securely isolates data across organizations while enabling team collaboration.
+- I approach development with a focus on clean architecture, maintainability, and shipping code that solves real business problems.
+- Email: treykadenyi@gmail.com
 
 
 <h3 align="center">Languages, Tools and Frameworks</h3>
