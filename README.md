@@ -7,7 +7,6 @@
 - I specialize in the MERN stack with strong expertise in multi-tenant architecture, RBAC, and RESTful API design.
 - Most recently, I built PlaniT—a B2B SaaS platform that securely isolates data across organizations while enabling team collaboration.
 - I approach development with a focus on clean architecture, maintainability, and shipping code that solves real business problems.
-- Email: treykadenyi@gmail.com
 
 
 <div align="center">
