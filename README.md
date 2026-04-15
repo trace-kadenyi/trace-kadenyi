@@ -28,13 +28,12 @@
   
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
-<a target="_blank"
-href="https://www.linkedin.com/in/tracey-kadenyi/"><img
-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
-href="https://lizdev.hashnode.dev/"></a> <a target="_blank"
-href="https://twitter.com/traci_K7"><img
-src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<div/>
 
+<a target="_blank" href="https://www.linkedin.com/in/tracey-kadenyi/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a target="_blank" href="https://medium.com/@tracekadenyi"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+<a href="mailto:treykadenyi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a target="_blank" href="https://traceykadenyi.com"><img src="https://img.shields.io/badge/-Portfolio-9B2C62?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
 
 
