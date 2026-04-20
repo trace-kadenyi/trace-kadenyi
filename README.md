@@ -3,7 +3,7 @@
 
 ***
 
-- I'm a full-stack JavaScript/TypeScript engineer with 4+ years of experience building SaaS platforms and scalable web applications in remote and cross-functional environments.
+- I'm a full-stack JavaScript/TypeScript engineer with 3+ years of experience building SaaS platforms and scalable web applications in remote and cross-functional environments.
 - I specialize in the MERN stack with strong expertise in multi-tenant architecture, RBAC, and RESTful API design.
 - Most recently, I built PlaniT—a B2B SaaS platform that securely isolates data across organizations while enabling team collaboration.
 - I approach development with a focus on clean architecture, maintainability, and shipping code that solves real business problems.
