@@ -6,6 +6,7 @@
 - I'm a full-stack JavaScript/TypeScript engineer with 3+ years of experience building SaaS platforms and scalable web applications in remote and cross-functional environments.
 - I specialize in the MERN stack with strong expertise in multi-tenant architecture, RBAC, and RESTful API design.
 - Most recently, I built PlaniT—a B2B SaaS platform that securely isolates data across organizations while enabling team collaboration.
+- My professional work lives in private company repositories. You can find my work profile at [@tracey-kadenyi-isocel](https://github.com/tracey-kadenyi-isocel).
 - I approach development with a focus on clean architecture, maintainability, and shipping code that solves real business problems.
 
 
@@ -28,6 +29,7 @@
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
 
+<a target="_blank" href="https://github.com/tracey-kadenyi-isocel"><img src="https://img.shields.io/badge/-Work%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/tracey-kadenyi/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a target="_blank" href="https://medium.com/@tracekadenyi"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 <a href="mailto:treykadenyi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
